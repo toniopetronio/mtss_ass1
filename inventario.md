@@ -1,5 +1,6 @@
 2042326
 2034528
 
-./processori.md
-./schede_madri.md
+Componenti
+./componenti/processori.md
+./componenti/schede_madri.md
